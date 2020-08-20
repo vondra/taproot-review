@@ -31,7 +31,7 @@ So, personally, my recommendation is to focus almost all of your review effort o
 
 The current draft of the taproot BIP can be found at:
 
- * https://github.com/sipa/bips/blob/bip-schnorr/bip-taproot.mediawiki
+ * Changed to https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki
 
 Remember that this is being actively worked on, so there may have been changes if you've read it previously!
 
